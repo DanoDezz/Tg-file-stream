@@ -1,7 +1,6 @@
 pyrogram==2.0.106
 pyrofork==2.2.11
 tgcrypto<=1.2.3
-aihttp<=3.8.1
 python-dotenv<=0.20.0
 SQLAlchemy
 Flask-SQLAlchemy
